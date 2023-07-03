@@ -22,11 +22,12 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![image](https://github.com/Prajwaljain20/Frontend-Mentor-3-column-card/assets/76695932/269b5381-7662-4453-bc6c-996aa6232151)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Prajwaljain20/Frontend-Mentor-3-column-card)
+- Live Site URL: [Github pages](https://prajwaljain20.github.io/Frontend-Mentor-3-column-card/)
 
 ## My process
 
